@@ -1,4 +1,4 @@
 csvReader
 =========
 
-simple program for reading files on csv form.
+simple program for reading files in csv form.
